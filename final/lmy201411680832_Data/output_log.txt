@@ -1,0 +1,43 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     112 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\lmygame-6.6\lmy201411680832-6.6\lmyfinal\lmy201411680832_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\lmygame-6.6\lmy201411680832-6.6\lmyfinal\lmy201411680832_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\lmygame-6.6\lmy201411680832-6.6\lmyfinal\lmy201411680832_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\lmygame-6.6\lmy201411680832-6.6\lmyfinal\lmy201411680832_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\lmygame-6.6\lmy201411680832-6.6\lmyfinal\lmy201411680832_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\lmygame-6.6\lmy201411680832-6.6\lmyfinal\lmy201411680832_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.075 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\lmygame-6.6\lmy201411680832-6.6\lmyfinal\lmy201411680832_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.359229 ms
+System memory in use before: 15.3 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 15.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 1.347667 ms (FindLiveObjects: 0.025436 ms CreateObjectMapping: 0.012494 ms MarkObjects: 0.227140 ms  DeleteObjects: 0.036592 ms)
+
+UnloadTime: 1.535984 ms
+System memory in use before: 15.3 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 15.3 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 3.962679 ms (FindLiveObjects: 0.052210 ms CreateObjectMapping: 0.036146 ms MarkObjects: 0.675172 ms  DeleteObjects: 0.408316 ms)
+
+UnloadTime: 1.199513 ms
+System memory in use before: 15.3 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 15.3 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 2.513266 ms (FindLiveObjects: 0.040608 ms CreateObjectMapping: 0.030344 ms MarkObjects: 0.431075 ms  DeleteObjects: 0.015618 ms)
+
